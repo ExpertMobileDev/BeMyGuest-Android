@@ -1,1 +1,1 @@
-This repository is managed by Masao.
+This repository is managed by Masao Yamamoto.
