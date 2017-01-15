@@ -1,1 +1,1 @@
-This repository is managed by Masao Yamamoto.
+This repository is managed by ExpertMobileDev.
